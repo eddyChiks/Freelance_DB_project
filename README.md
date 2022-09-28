@@ -1,2 +1,1 @@
-# Freelance_DB_project
- 
+Java interface for Freelance database
